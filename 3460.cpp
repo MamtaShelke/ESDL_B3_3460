@@ -1,6 +1,8 @@
 #include<iostream>
+using namespace std;
 int main()
 {
-  std::cout<<"Hello";
+  cout<<"Hello";
+  cout<<"Mamta";  //Hey
   return 0;
 }
